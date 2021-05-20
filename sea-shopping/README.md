@@ -93,7 +93,7 @@ rabbitmq目前只用在配置中心，实现动态刷新spring bean，建议安�
 最终效果与上面的直接访问shop的效果是一样的，主要区别就是访问路径发生了变化。被zuul网关拦截处理，再进行转发请求shop应用。具体zuul配置请查看 \sea-service-zuul\src\main\resources\application.yml
 ```
  -  **修改git仓库配置文件属性值，实现动态刷新spring bean属性**
-> git使用的是我的码云的项目（https://gitee.com/zhoubang85/springcloud-config-test ）
+> git使用的是我的码云的项目 https://gitee.com/zhoubang85/springcloud-config-test
 
 > 具体需要测试的地方在 \sea-web-shop\src\main\java\pers\zb\web\shop\controller\ShopController.java中的@Value("${message}")<br/><br/>
 > 这个message的值是shop应用启动的时候从config配置中心获取的，而配置中心是从git远程仓库获取的<br/><br/>

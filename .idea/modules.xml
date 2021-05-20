@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-server-config/sea-server-config.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-server-config/sea-server-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-server-eureka/sea-server-eureka.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-server-eureka/sea-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-service-user/sea-service-user.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-service-user/sea-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-service-zuul/sea-service-zuul.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-service-zuul/sea-service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-shopping.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-springcloud.iml" filepath="$PROJECT_DIR$/sea-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-web-hystrix-dashboard/sea-web-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-web-hystrix-dashboard/sea-web-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sea-shopping/sea-web-shop/sea-web-shop.iml" filepath="$PROJECT_DIR$/sea-shopping/sea-web-shop/sea-web-shop.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-server-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-server-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-server-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-server-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-service-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-service-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-service-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-web-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-web-hystrix-dashboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-web-shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sea-shopping/sea-web-shop/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

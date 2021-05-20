@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sea-server-eureka" />
+        <module name="sea-service-zuul" />
+        <module name="sea-server-config" />
+        <module name="sea-web-shop" />
+        <module name="sea-service-user" />
+        <module name="sea-web-hystrix-dashboard" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sea-server-config" target="1.8" />
+      <module name="sea-server-eureka" target="1.8" />
+      <module name="sea-service-user" target="1.8" />
+      <module name="sea-service-zuul" target="1.8" />
+      <module name="sea-shopping" target="1.8" />
+      <module name="sea-springcloud" target="1.8" />
+      <module name="sea-web-hystrix-dashboard" target="1.8" />
+      <module name="sea-web-shop" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sea-server-config" options="-nowarn" />
+      <module name="sea-server-eureka" options="-nowarn" />
+      <module name="sea-service-user" options="-nowarn" />
+      <module name="sea-service-zuul" options="-nowarn" />
+      <module name="sea-web-hystrix-dashboard" options="-nowarn" />
+      <module name="sea-web-shop" options="-nowarn" />
+    </option>
+  </component>
+</project>
